@@ -1,2 +1,2 @@
 // 登录表单
-export function login() { return 'login form'; }
+export function login() { /* TODO: 补充校验 */ return 'login form'; }
